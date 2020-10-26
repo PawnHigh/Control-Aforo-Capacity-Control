@@ -1,0 +1,28 @@
+Correr el Sistema:
+/Establecerse en la ruta del proyecto
+
+    /npm install
+    /npm start || npm run dev (developer)
+
+Funcionalidades de las carpetas:
+
+/src
+
+    /controllers: declarar funciones para las rutas
+    /models: esquemas de nuestra base de datos
+    /client: archivos estaticos en react
+    /routes: definir rutas 
+    /client: nuestra aplicacion react
+
+Despliegue:
+/Establecerse en la ruta del proyecto
+
+    /> heroku login -i
+    /> git init
+    /> git add .
+    /> git status
+    /> heroku git:remote -a control-aforo
+    /> git commit -m "V1.0"
+    /> git status
+    /> git push heroku master   
+    /> heroku open 
