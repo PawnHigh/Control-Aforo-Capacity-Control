@@ -9,8 +9,7 @@ Mongo_coleccion="prueba"
 tiempo_ini = datetime.datetime.now()
 try:
 	#Conexion a mongoDb(Linea Obligatoria)
-	cliente = pymongo.MongoClient("mongodb+srv://Cesar:1234@cluster0.ihcp8.mongodb.net/Foro?retryWrites=true&w=majority")
-	print("conexion exitosa")
+	#Aqui peguen la conexion
 	#Obtenemos la base de datos a trabajar
 	baseDatos=cliente[Mongo_baseDatos]
 	#Obtenemos la coleccion a trabajar

@@ -60,7 +60,7 @@ estado=0;
 
 try:
 	#Conexion a mongoDb(Linea Obligatoria)
-	cliente = pymongo.MongoClient("mongodb+srv://Cesar:1234@cluster0.ihcp8.mongodb.net/Foro?retryWrites=true&w=majority")
+	#Aqui peguen la conexion
 	print("conexion exitosa")
 	#Obtenemos la base de datos a trabajar
 	baseDatos=cliente[Mongo_baseDatos]
