@@ -6,7 +6,7 @@ Iteración N°1
 # BackEnd-Detection-Background-Subtraction (BackEnd-Detection-Sustraccion de Fondo)
 ![alt tag](docs/detection2.png)
 # BackEnd-DataBase (DataBase BackEnd)
-![alt tag](docs/baseDatosV1.png)
+![alt tag](docs/baseDatosV1.PNG)
 # FrontEnd (Vista administrador Login)
 ![alt tag](docs/C-login.jpeg)
 # FrontEnd (Vista administrador Update Aforo)
