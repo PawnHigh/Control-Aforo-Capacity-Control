@@ -1,0 +1,159 @@
+body .a0 .wave:before{animation: a0 4s linear infinite;}
+body .a0 .wave:after{animation:  a0 10s linear infinite;}
+body .a1 .wave:before{animation: a1 4s linear infinite;}
+body .a1 .wave:after{animation:  a1 10s linear infinite;}
+body .a2 .wave:before{animation: a2 4s linear infinite;}
+body .a2 .wave:after{animation:  a2 10s linear infinite;}
+body .a3 .wave:before{animation: a3 4s linear infinite;}
+body .a3 .wave:after{animation:  a3 10s linear infinite;}
+body .a4 .wave:before{animation: a4 4s linear infinite;}
+body .a4 .wave:after{animation:  a4 10s linear infinite;}
+body .a5 .wave:before{animation: a5 4s linear infinite;}
+body .a5 .wave:after{animation:  a5 10s linear infinite;}
+body .a6 .wave:before{animation: a6 4s linear infinite;}
+body .a6 .wave:after{animation:  a6 10s linear infinite;}
+body .a7 .wave:before{animation: a7 4s linear infinite;}
+body .a7 .wave:after{animation:  a7 10s linear infinite;}
+body .a8 .wave:before{animation: a8 4s linear infinite;}
+body .a8 .wave:after{animation:  a8 10s linear infinite;}
+body .a9 .wave:before{animation: a9 4s linear infinite;}
+body .a9 .wave:after{animation:  a9 10s linear infinite;}
+body .a10 .wave:before{animation: a10 4s linear infinite;}
+body .a10 .wave:after{animation:  a10 10s linear infinite;}
+body .a11 .wave:before{animation: a11 4s linear infinite;}
+body .a11 .wave:after{animation:  a11 10s linear infinite;}
+body .a12 .wave:before{animation: a12 4s linear infinite;}
+body .a12 .wave:after{animation:  a12 10s linear infinite;}
+body .a13 .wave:before{animation: a13 4s linear infinite;}
+body .a13 .wave:after{animation:  a13 10s linear infinite;}
+body .a14 .wave:before{animation: a14 4s linear infinite;}
+body .a14 .wave:after{animation:  a14 10s linear infinite;}
+body .a15 .wave:before{animation: a15 4s linear infinite;}
+body .a15 .wave:after{animation:  a15 10s linear infinite;}
+body .a16 .wave:before{animation: a16 4s linear infinite;}
+body .a16 .wave:after{animation:  a16 10s linear infinite;}
+body .a17 .wave:before{animation: a17 4s linear infinite;}
+body .a17 .wave:after{animation:  a17 10s linear infinite;}
+body .a18 .wave:before{animation: a18 4s linear infinite;}
+body .a18 .wave:after{animation:  a18 10s linear infinite;}
+body .a19 .wave:before{animation: a19 4s linear infinite;}
+body .a19 .wave:after{animation:  a19 10s linear infinite;}
+body .a20 .wave:before{animation: a20 4s linear infinite;}
+body .a20 .wave:after{animation:  a20 10s linear infinite;}
+body .a21 .wave:before{animation: a21 4s linear infinite;}
+body .a21 .wave:after{animation:  a21 10s linear infinite;}
+body .a22 .wave:before{animation: a22 4s linear infinite;}
+body .a22 .wave:after{animation:  a22 10s linear infinite;}
+body .a23 .wave:before{animation: a23 4s linear infinite;}
+body .a23 .wave:after{animation:  a23 10s linear infinite;}
+body .a24 .wave:before{animation: a24 4s linear infinite;}
+body .a24 .wave:after{animation:  a24 10s linear infinite;}
+body .a25 .wave:before{animation: a25 4s linear infinite;}
+body .a25 .wave:after{animation:  a25 10s linear infinite;}
+
+
+@keyframes a0{
+	0%{transform: translate(-50%,-50%) rotate(0deg);}
+	100%{transform: translate(-50%,-50%) rotate(360deg);}
+}
+@keyframes a1{
+	0%{transform: translate(-50%,-52.5%) rotate(0deg);}
+	100%{transform: translate(-50%,-52.5%) rotate(360deg);}
+}
+@keyframes a2{
+	0%{transform: translate(-50%,-55%) rotate(0deg);}
+	100%{transform: translate(-50%,-55%) rotate(360deg);}
+}
+@keyframes a3{
+	0%{transform: translate(-50%,-57.5%) rotate(0deg);}
+	100%{transform: translate(-50%,-57.5%) rotate(360deg);}
+}
+@keyframes a4{
+	0%{transform: translate(-50%,-60%) rotate(0deg);}
+	100%{transform: translate(-50%,-60%) rotate(360deg);}
+}
+@keyframes a5{
+	0%{transform: translate(-50%,-62.5%) rotate(0deg);}
+	100%{transform: translate(-50%,-62.5%) rotate(360deg);}
+}
+@keyframes a6{
+	0%{transform: translate(-50%,-65%) rotate(0deg);}
+	100%{transform: translate(-50%,-65%) rotate(360deg);}
+}
+@keyframes a7{
+	0%{transform: translate(-50%,-67.5%) rotate(0deg);}
+	100%{transform: translate(-50%,-67.5%) rotate(360deg);}
+}
+@keyframes a8{
+	0%{transform: translate(-50%,-70%) rotate(0deg);}
+	100%{transform: translate(-50%,-70%) rotate(360deg);}
+}
+@keyframes a9{
+	0%{transform: translate(-50%,-72.5%) rotate(0deg);}
+	100%{transform: translate(-50%,-72.5%) rotate(360deg);}
+}
+@keyframes a10{
+	0%{transform: translate(-50%,-75%) rotate(0deg);}
+	100%{transform: translate(-50%,-75%) rotate(360deg);}
+}
+@keyframes a11{
+	0%{transform: translate(-50%,-77.5%) rotate(0deg);}
+	100%{transform: translate(-50%,-77.5%) rotate(360deg);}
+}
+@keyframes a12{
+	0%{transform: translate(-50%,-80%) rotate(0deg);}
+	100%{transform: translate(-50%,-80%) rotate(360deg);}
+}
+@keyframes a13{
+	0%{transform: translate(-50%,-82.5%) rotate(0deg);}
+	100%{transform: translate(-50%,-82.5%) rotate(360deg);}
+}
+@keyframes a14{
+	0%{transform: translate(-50%,-85%) rotate(0deg);}
+	100%{transform: translate(-50%,-85%) rotate(360deg);}
+}
+@keyframes a15{
+	0%{transform: translate(-50%,-87.5%) rotate(0deg);}
+	100%{transform: translate(-50%,-87.5%) rotate(360deg);}
+}
+@keyframes a16{
+	0%{transform: translate(-50%,-90%) rotate(0deg);}
+	100%{transform: translate(-50%,-90%) rotate(360deg);}
+}
+@keyframes a17{
+	0%{transform: translate(-50%,-90%) rotate(0deg);}
+	100%{transform: translate(-50%,-90%) rotate(360deg);}
+}
+@keyframes a18{
+	0%{transform: translate(-50%,-92.5%) rotate(0deg);}
+	100%{transform: translate(-50%,-92.5%) rotate(360deg);}
+}
+@keyframes a19{
+	0%{transform: translate(-50%,-95%) rotate(0deg);}
+	100%{transform: translate(-50%,-95%) rotate(360deg);}
+}
+@keyframes a20{
+	0%{transform: translate(-50%,-97.5%) rotate(0deg);}
+	100%{transform: translate(-50%,-97.5%) rotate(360deg);}
+}
+@keyframes a21{
+	0%{transform: translate(-50%,-100%) rotate(0deg);}
+	100%{transform: translate(-50%,-100%) rotate(360deg);}
+}
+@keyframes a22{
+	0%{transform: translate(-50%,-100%) rotate(0deg);}
+	100%{transform: translate(-50%,-100%) rotate(360deg);}
+}
+@keyframes a23{
+	0%{transform: translate(-50%,-102.5%) rotate(0deg);}
+	100%{transform: translate(-50%,-102.5%) rotate(360deg);}
+}
+@keyframes a24{
+	0%{transform: translate(-50%,-105%) rotate(0deg);}
+	100%{transform: translate(-50%,-105%) rotate(360deg);}
+}
+@keyframes a25{
+	0%{transform: translate(-50%,-107.5%) rotate(0deg);}
+	100%{transform: translate(-50%,-107.5%) rotate(360deg);}
+}
+
